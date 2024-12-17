@@ -15,6 +15,9 @@ A 3D cube wave animation made with Babylon.js
 
 ```
 
+## Demo
+![cube_wave](https://github.com/user-attachments/assets/e77886cf-daa2-413e-bf92-e9b0e19910ef)
+
 ## How to run?
 Make sure you have all the dependencies installed, (you can do that with `npm install`) and then run:
 
